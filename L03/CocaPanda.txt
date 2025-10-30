@@ -1,0 +1,6 @@
+glucose 3
+sucrose 3
+fructose 3
+Sweet as 10.2% sucrose solution
+Sweet as 0.0% sucrose solution
+Sweet as 0.0% sucrose solution

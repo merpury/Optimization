@@ -1,0 +1,6 @@
+substance sweetness calories/gram
+lactose 0.16 4
+glucose 0.7 4
+sucrose 1 4
+fructose 1.7 4
+saccharin 300 0
