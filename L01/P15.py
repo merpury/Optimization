@@ -4,4 +4,3 @@ def star_lagtime(light_speed,name,distance):
     time = (distance * 1000) / light_speed
 
     return time
-
